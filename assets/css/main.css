@@ -2962,7 +2962,7 @@ input, select, textarea {
 
 			header.major > .date {
 				font-size: 1rem;
-				margin: 0 0 4rem 0;
+				margin: 0 0 2rem 0;
 			}
 
 				header.major > .date:before, header.major > .date:after {
@@ -3824,7 +3824,7 @@ input, select, textarea {
 		}
 
 			#main > .post header.major > .date {
-				margin-top: -2rem;
+				margin-top: 0rem;
 			}
 
 			#main > .post header.major > h1, #main > .post header.major h2 {
@@ -3852,7 +3852,7 @@ input, select, textarea {
 				}
 
 					#main > .post header.major > .date {
-						margin-top: -1rem;
+						margin-top: 0rem;
 						margin-bottom: 2rem;
 					}
 
@@ -4313,11 +4313,11 @@ input, select, textarea {
 					}
 
 					#footer > section.split.contact > section:first-child {
-						padding: 4rem 4rem 3rem 4rem;
+						padding: 2rem 4rem 2rem 4rem;
 					}
 
 					#footer > section.split.contact > section:last-child {
-						padding: 3rem 4rem 4rem 4rem;
+						padding: 2rem 4rem 2rem 4rem;
 					}
 
 					#footer > section.split.contact > section.alt {
